@@ -1,4 +1,3 @@
-Eigenface Gesichtserkennung
-Autor: Prof. Dr. Johannes Maucher
-Datum: 27.11.2015
-Übersicht Versuche im Data Mining Praktikum
+Prof. Dr. Johannes Maucher
+Data Mining Versuch Eigenface Gesichtserkennung,
+http://maucher.pages.mi.hdm-stuttgart.de/ai/page/dm/
